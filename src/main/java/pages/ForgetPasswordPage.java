@@ -8,7 +8,7 @@ import common.WebDriverGenerics;
 public class ForgetPasswordPage  extends WebDriverGenerics{
 
 
-
+//git fix 2
 	WebDriver driver =null;
 
 	public ForgetPasswordPage(WebDriver instance) {
